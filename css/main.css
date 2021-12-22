@@ -1,0 +1,27 @@
+/*
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+}
+*/
+/*
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}*/
+.alert {
+    background-color: #c5050c;
+}
+
+.featureimg {
+    background-image: url("../img/bluemoundsterrain.png");
+    height: 100%;
+    background-position: center;
+}
+
+.imgcaption {
+    background-color: rgba(0,0,0,0.5)
+}
